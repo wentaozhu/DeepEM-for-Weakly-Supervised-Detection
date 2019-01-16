@@ -15,4 +15,4 @@ You can download NLST dataset from https://biometry.nci.nih.gov/cdas/nlst/ and u
 
 The used TianChi hold out test set is in https://drive.google.com/drive/folders/1YEnxCtDplTfTp7OVKUGrXy1N8s2YZ7gP?usp=sharing.
 
-For any problems, feel free to contact Wentao Zhu (wentaozhu1991@gmail.com)
+For any problems, feel free to report issues in the Github (preferred) or contact Wentao Zhu (wentaozhu1991@gmail.com)
